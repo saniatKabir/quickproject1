@@ -1,0 +1,107 @@
+
+.main{
+	background-color: lightskyblue;
+}
+
+.header{
+	overflow: hidden;
+	width: 100%;
+	border-bottom: 2px solid steelblue;
+	/*-height: 100px;-*/
+	/*background-color: lightblue;*/
+	
+}
+.logo{
+	width: 75px;
+	height: 75px;
+}
+
+.sub-hd1{
+	float: left;
+	border: 5px, black;
+	align-content: center;
+}
+
+.sub-hd2{
+	float: right;
+	/*border: 5px, black;*/
+	text-align: center;
+	padding: 10px 0;
+}
+.hdg{
+	margin: auto;
+	text-align: center;
+	width: 70%;
+	/*background-color: limegreen;*/
+	padding: 10px 0;
+}
+.hdg1{
+	color: darkgreen;
+}
+
+.hdg2{
+	color: darkred;
+}
+.part1{
+	padding: 20px 0;
+	text-align: center;
+}
+.img1={
+	/*padding: 20px 0;*/
+	width: 50%;
+}
+.part2{
+	width: 70%;
+	overflow: hidden;
+	/*text-align: center;*/
+	margin: auto;
+}
+
+.lttxt{
+	text-align: right;
+	float: left;
+	width: 55%;
+}
+.rttxt{
+	text-align: left;
+	float: right;
+	width: 43%;
+	font-size: 35px;
+}
+
+.part3{
+	overflow: hidden;
+}
+.container{
+	float: left;
+	width: 32%;
+	padding: 10px
+}
+
+#cu{
+	width: 100%;
+}
+
+#cuu{
+	background-color: yellow;
+}
+	
+#feni{
+	width: 100%;}
+
+#fenii{	
+	background-color: green;
+}
+
+#noakhali{
+	width: 100%;
+
+#noa{
+	background-color: darkred;
+}
+
+.footer{
+	height: 50px;
+	background-color: blue;
+	text-align: center;
+}
